@@ -2,7 +2,6 @@
 
 			
 .swatch {
-    /* Remove this rule when you set your colors! */
     background-color: red;
     margin: 1px;
     width: 100px;
@@ -170,7 +169,7 @@ a {
   
   #contact button {
     padding: 10px;
-    background-color: rgb(224, 224, 239); /* Replace with your preferred button color */
+    background-color: rgb(224, 224, 239); 
     color: rgb(0, 0, 0);
     border-radius: 5px;
   }
@@ -183,7 +182,6 @@ a {
     width: 100%;
     overflow: hidden;
     position: absolute; 
-    /* white-space: nowrap; */
     box-sizing: border-box; 
   }
   
